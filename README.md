@@ -73,11 +73,11 @@ class Niswanth:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/niswanth2007">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=niswanth2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/niswanth2007-debug">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=niswanth2007-debug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/niswanth2007">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niswanth2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/niswanth2007-debug">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niswanth2007-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -86,7 +86,7 @@ class Niswanth:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=niswanth2007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=niswanth2007-debug&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -94,7 +94,7 @@ class Niswanth:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niswanth2007&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niswanth2007-debug&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -102,7 +102,7 @@ class Niswanth:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niswanth2007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=niswanth2007-debug&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -150,11 +150,11 @@ class Niswanth:
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [🛰️ CANSAT Telemetry System](https://github.com/niswanth2007) | STM32 · KiCad · GNU Radio | Onboard PCB + telemetry pipeline for satellite simulation payload |
-| [🎛️ Bandpass Filter – 2 GHz](https://github.com/niswanth2007) | Keysight ADS · Microstrip | Lumped → microstrip parallel coupled filter; 1.9–2.1 GHz passband |
-| [🧠 EEG Seizure Prediction](https://github.com/niswanth2007) | Python · MATLAB · DSP | Research paper on ictal/pre-ictal EEG classification + alert system architecture |
-| [🤖 Line Follower & Colour Sorter](https://github.com/niswanth2007) | STM32 · Arduino · Sensors | Autonomous bots with sensor feedback, motor control, and servo actuation |
-| [✍️ Handwritten Digit Recognition](https://github.com/niswanth2007) | Python · ML · OpenCV | ML model classifying handwritten digits from input images |
+| [🛰️ CANSAT Telemetry System](https://github.com/niswanth2007-debug) | STM32 · KiCad · GNU Radio | Onboard PCB + telemetry pipeline for satellite simulation payload |
+| [🎛️ Bandpass Filter – 2 GHz](https://github.com/niswanth2007-debug) | Keysight ADS · Microstrip | Lumped → microstrip parallel coupled filter; 1.9–2.1 GHz passband |
+| [🧠 EEG Seizure Prediction](https://github.com/niswanth2007-debug) | Python · MATLAB · DSP | Research paper on ictal/pre-ictal EEG classification + alert system architecture |
+| [🤖 Line Follower & Colour Sorter](https://github.com/niswanth2007-debug) | STM32 · Arduino · Sensors | Autonomous bots with sensor feedback, motor control, and servo actuation |
+| [✍️ Handwritten Digit Recognition](https://github.com/niswanth2007-debug) | Python · ML · OpenCV | ML model classifying handwritten digits from input images |
 
 </div>
 
@@ -209,10 +209,10 @@ class Niswanth:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niswanth--b-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/niswanth-b-2304063a0)
-[![Email](https://img.shields.io/badge/Email-niswanth2007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niswanth2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-niswanth2007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niswanth2007)
+[![Email](https://img.shields.io/badge/Email-niswanth2007-debug%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niswanth2007-debug@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-niswanth2007-debug-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niswanth2007-debug)
 
-![Profile Views](https://komarev.com/ghpvc/?username=niswanth2007&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=niswanth2007-debug&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
